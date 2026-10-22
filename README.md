@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Berke Utku 👋</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bberkeutku-boop&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=berkeutku&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
 
 <h3 align="center">Management Information Systems Student & Tech Enthusiast</h3>
