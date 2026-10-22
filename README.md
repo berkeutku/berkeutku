@@ -31,7 +31,7 @@ I am a Management Information Systems (MIS) student with a strong passion for te
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bberkeutku-boop&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=berkeutku&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
 
 ---
