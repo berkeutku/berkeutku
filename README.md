@@ -40,9 +40,6 @@
 
 ---
 
-### 📫 Connect with Me
-* 💼 **LinkedIn:** [Add your LinkedIn profile link here](Your_LinkedIn_URL)
-* ✉️ **Email:** bberkeutku@gmail.com
 
 ### 📫 Connect with Me
 * 💼 **LinkedIn:** https://www.linkedin.com/in/berke-utku-b0b607335/
