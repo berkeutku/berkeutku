@@ -37,5 +37,5 @@ I am a Management Information Systems (MIS) student with a strong passion for te
 ---
 
 ### 📫 Connect with Me
-* 💼 **LinkedIn:** [Add your LinkedIn profile link here](Your_LinkedIn_URL)
+* 💼 **LinkedIn:** https://www.linkedin.com/in/berke-utku-b0b607335/
 * ✉️ **Email:** bberkeutku@gmail.com
