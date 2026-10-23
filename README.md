@@ -1,176 +1,202 @@
 <!--
-  BERKE UTKU — DIGITAL WORKSHOP
-  GitHub Profile: berkeutku
+  BERKE UTKU | GITHUB PROFILE README
+  Repository: https://github.com/berkeutku/berkeutku
 -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0b0d12&height=190&section=header&text=BERKE%20UTKU&fontSize=58&fontColor=e8edf5&fontAlignY=43&desc=Systems%20thinking.%20Software%20building.&descSize=15&descColor=8b9bb4&descAlignY=68" alt="Berke Utku — Systems thinking. Software building." />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09090F,50:172554,100:6D28D9&text=BERKE%20UTKU&fontColor=FFFFFF&fontSize=55&fontAlignY=38&desc=Building%20ideas%20into%20software&descAlignY=58&descSize=17&animation=fadeIn" width="100%" alt="Berke Utku profile banner" />
 
-<br/>
+<a href="https://github.com/berkeutku">
+  <img src="https://komarev.com/ghpvc/?username=berkeutku&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge" alt="Profile views" />
+</a>
+<img src="https://img.shields.io/badge/FOCUS-AI%20%26%20SOFTWARE-06B6D4?style=for-the-badge" alt="AI and software focus" />
+<img src="https://img.shields.io/badge/BASED%20IN-T%C3%9CRKIYE-E5E7EB?style=for-the-badge" alt="Based in Türkiye" />
 
-<img src="https://komarev.com/ghpvc/?username=berkeutku&style=flat&color=161b26&label=YOU%27RE+VISITOR+NO." alt="Profile visit counter" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/berkeutku?style=flat&color=161b26&label=FOLLOWERS" alt="GitHub followers" />
-&nbsp;
-<img src="https://img.shields.io/github/stars/berkeutku?style=flat&color=161b26&label=STARS" alt="GitHub stars" />
+<br /><br />
 
-<br/><br/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Management+Information+Systems+Student;AI-Assisted+Software+Development;Python+%7C+Java+%7C+Databases;Learning%2C+Building%2C+Iterating;Turning+Ideas+Into+Real+Projects" alt="Animated introduction" />
+</a>
 
-`MIS STUDENT` &nbsp; / &nbsp; `DEVELOPER IN PROGRESS` &nbsp; / &nbsp; `AI-ASSISTED BUILDER`
+<br />
+
+[LinkedIn](https://www.linkedin.com/in/berke-utku-b0b607335/) · [Email](mailto:bberkeutku@gmail.com) · [Repositories](https://github.com/berkeutku?tab=repositories)
 
 </div>
 
 ---
 
-### 01 / A little about how I think
+## `whoami` — About Me
 
-I’m Berke — a Management Information Systems student interested in what happens when business logic meets software.
+Hi! I'm **Berke Utku**, a Management Information Systems student interested in the intersection of software engineering, business processes, databases, and artificial intelligence.
 
-I like understanding the moving parts behind a product: the data model, the rules, the edge cases, and the decisions that make everything work together. I’m drawn to projects that solve tangible problems rather than exist just to demonstrate a language or framework.
+I enjoy exploring how technology can turn complex problems into practical digital products. I use AI-assisted development as part of my workflow to explore solutions, understand unfamiliar concepts, debug code, and iterate on implementations.
 
-My workflow is a mix of hands-on coding, experimentation, documentation, and AI-assisted problem-solving. I use AI to explore approaches and move faster, but I want to understand the decisions behind the code I build.
+My goal isn't just to write code. It's to understand **why a system works, how its components interact, and how it can become more useful, secure, and maintainable.**
 
-I’m still learning. That’s not a disclaimer; it’s part of the process.
+- 🧠 **Problem-solving:** Breaking ideas into manageable technical problems.
+- 🤖 **AI-assisted development:** Using AI as a coding and learning partner, while working to understand the resulting implementation.
+- 🧩 **Software design:** Exploring application logic, database relationships, and system architecture.
+- 📊 **Business & technology:** Connecting information systems with real-world needs.
+- 🌱 **Continuous learning:** Improving through experimentation, debugging, and personal projects.
 
 ```text
-curiosity  ->  research  ->  prototype  ->  test  ->  refine
+CURRENT MINDSET
+
+Understand the problem.
+Design the solution.
+Build a working version.
+Test the assumptions.
+Improve what matters.
 ```
-
-### 02 / Inside the workshop
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**01 — Code**
-
-Python is one of my main tools for exploring programming and application logic. I'm also developing my Java skills and strengthening my understanding of structured software development.
-
-</td>
-<td width="50%" valign="top">
-
-**02 — Data**
-
-I’m interested in relational databases, SQL, schema design, and how data relationships shape the behavior of an application.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**03 — AI in the workflow**
-
-I use AI-assisted tools for code exploration, debugging, implementation ideas, and understanding unfamiliar concepts. The goal is better work, not code I can't explain.
-
-</td>
-<td width="50%" valign="top">
-
-**04 — Systems**
-
-Authentication, access rules, application workflows, and edge cases are the parts that make me look beyond the interface and think about the system underneath.
-
-</td>
-</tr>
-</table>
-
-### 03 / Tools on the bench
-
-<div align="left">
-
-<img src="https://skillicons.dev/icons?i=python,java,html,postgres,supabase,django,git,github,vscode&theme=dark&perline=9" alt="Python, Java, HTML, PostgreSQL, Supabase, Django, Git, GitHub and VS Code" />
-
-</div>
-
-<sub>Tools are part of the process, not the whole story. My experience varies across technologies, and I'm continuously expanding it through projects.</sub>
-
-<br/>
-
-| Focus | What I'm exploring |
-|:--|:--|
-| Languages | Python · Java · HTML |
-| Data | SQL · relational database design |
-| Backend | Application logic · authentication concepts |
-| Workflow | Git · GitHub · VS Code |
-| AI-assisted development | Code analysis · debugging · iteration |
-
-### 04 / Current build
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=111722&height=3&section=header" alt="" />
-
-</div>
-
-#### PROJECT_001 — Event-based ride sharing
-
-<sub>IN DEVELOPMENT / PRODUCT CONCEPT</sub>
-
-What if getting to an event together were easier than arranging the journey separately?
-
-I'm developing a platform concept around shared transportation for concerts, matches, theatre performances, and other events. The idea is to connect relevant attendees and make ride coordination more structured.
-
-**The interesting part isn't just the idea. It's the system behind it.**
-
-- `DATA MODEL` — relationships between users, events, rides, and ride requests.
-- `ACCESS CONTROL` — defining who can see information and who can perform each action.
-- `BUSINESS RULES` — handling ride requests, seat availability, cancellations, and state changes.
-- `NEXT CHALLENGES` — exploring route optimization, pickup coordination, and secure verification workflows.
-
-**Current focus:** database structure, application logic, and permissions.
-
-The broader platform is a work in progress. Planned capabilities are not presented as completed features.
 
 ---
 
-### 05 / GitHub, without the noise
+## `tech_stack` — Technologies & Tools
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=berkeutku&show_icons=true&hide_border=true&bg_color=0b0d12&title_color=7dd3fc&icon_color=7dd3fc&text_color=c5cedb&ring_color=7dd3fc" alt="GitHub overview" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkeutku&layout=compact&hide_border=true&bg_color=0b0d12&title_color=7dd3fc&text_color=c5cedb" alt="Languages across public repositories" />
+### Programming & Markup
 
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=python,java,html&theme=dark" alt="Python, Java, HTML" />
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=berkeutku&bg_color=0b0d12&color=c5cedb&line=38bdf8&point=e2e8f0&area=true&hide_border=true" alt="Contribution activity" />
+### Databases & Backend Technologies
+
+<img src="https://skillicons.dev/icons?i=postgres,supabase,django&theme=dark" alt="PostgreSQL, Supabase, Django" />
+
+### Development Environment
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,windows&theme=dark" alt="Git, GitHub, VS Code, Windows" />
+
+### AI-Assisted Workflow
+
+<img src="https://img.shields.io/badge/ChatGPT-AI%20Assisted%20Development-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+<img src="https://img.shields.io/badge/AI%20Coding-Problem%20Solving-0891B2?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="AI coding workflow" />
 
 </div>
 
-<sub>These visualizations depend on external services. Language statistics reflect repository contents, not proficiency; unavailable cards may temporarily fail to load.</sub>
+**Areas I'm developing:**
 
-### 06 / The principles behind the code
+| Area | Current focus |
+|---|---|
+| Programming | Python, Java fundamentals, writing structured code |
+| Databases | SQL, relational data modeling, PostgreSQL |
+| Backend | Application logic, authentication concepts, API-driven systems |
+| Security | Access control, validation, and database permissions |
+| Developer workflow | Git, GitHub, debugging, VS Code |
+| AI-assisted coding | Code exploration, implementation support, troubleshooting |
+
+*The tools and skills listed here reflect my learning and development interests; proficiency varies by technology.*
+
+---
+
+## `projects` — What I'm Building
+
+### 01. Event-Based Ride-Sharing Platform
+
+**Status:** In development
+
+A platform concept designed to help people attending the same concert, sports match, theatre performance, or other event coordinate shared transportation.
+
+The idea is to connect eligible attendees, organize pickup points, and make shared journeys easier to coordinate.
+
+**Core concepts**
+- 🎟️ Event-based participation and ticket verification
+- 📍 Pickup-point coordination and route planning
+- 🗄️ Relational database design and application workflows
+- 🔐 Authentication, permissions, and privacy-aware data handling
+- 🌱 More efficient transportation through shared journeys
+
+**Engineering challenges I'm exploring**
+
+- Designing relationships between users, events, rides, and ride requests
+- Defining who can view or access sensitive information
+- Preventing invalid ride requests and inconsistent seat availability
+- Planning how route optimization and payment workflows could be integrated
+
+**Current stage:** Database and application logic development. Verification, routing, payments, and other features should be considered planned until they are implemented and tested.
+
+---
+
+### 02. Personal Software Projects
+
+I also use personal and academic projects to practice programming, explore backend concepts, and improve my development workflow.
+
+My focus is on learning through implementation: building features, investigating errors, improving code organization, and documenting what I've learned.
+
+➡️ [Explore my repositories](https://github.com/berkeutku?tab=repositories)
+
+---
+
+## `github_analytics` — Activity Dashboard
+
+<div align="center">
+
+<a href="https://github.com/berkeutku">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=berkeutku&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+</a>
+<a href="https://github.com/berkeutku">
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkeutku&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages" />
+</a>
+
+<br /><br />
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=berkeutku&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+
+<br /><br />
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=berkeutku&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" />
+
+<br /><br />
+
+<img src="https://github-profile-trophy.vercel.app/?username=berkeutku&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" width="95%" alt="GitHub profile trophies" />
+
+</div>
+
+---
+
+## `principles` — How I Approach Development
 
 ```python
-def build_something_useful(problem):
-    understand(problem)
-    explore_possible_solutions()
-    implement_a_small_version()
-    test_assumptions()
-    improve_based_on_results()
+development_principles = {
+    "problem_solving": "Understand the problem before coding",
+    "learning": "Learn by building and experimenting",
+    "ai_usage": "Use AI to accelerate understanding and iteration",
+    "code_quality": "Prefer readable, maintainable implementations",
+    "security": "Treat access control and data privacy as design concerns",
+    "growth": "Improve continuously through feedback"
+}
 ```
 
-I value clear reasoning over unnecessary complexity, useful functionality over decoration, and understanding over blindly accepting generated code.
+I believe good software development combines technical knowledge, curiosity, structured thinking, and a willingness to learn from mistakes.
 
-I’m interested in the intersection of information systems, software, and AI — especially where a technical solution can make a real process simpler.
+AI tools can accelerate development, but understanding the code, checking assumptions, and validating the result remain essential.
 
-### 07 / Open channel
+---
 
-I'm always interested in discovering thoughtful projects, learning from other developers, and exchanging ideas around software and technology.
+## `connect()` — Let's Connect
 
-<div align="left">
+I'm interested in software development, information systems, AI-assisted coding, and practical technology projects.
 
-<a href="https://www.linkedin.com/in/berke-utku-b0b607335/"><img src="https://img.shields.io/badge/LINKEDIN-Connect-161b26?style=for-the-badge&logo=linkedin&logoColor=7dd3fc" alt="LinkedIn" /></a>
-<a href="mailto:bberkeutku@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Say_hello-161b26?style=for-the-badge&logo=gmail&logoColor=7dd3fc" alt="Email" /></a>
-<a href="https://github.com/berkeutku?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-Explore-161b26?style=for-the-badge&logo=github&logoColor=7dd3fc" alt="GitHub repositories" /></a>
-
-</div>
-
-<br/>
+If you're exploring similar ideas, working on a project, or interested in exchanging knowledge, feel free to connect.
 
 <div align="center">
 
-<sub>NOT FINISHED. NOT STANDING STILL.</sub>
+<a href="https://www.linkedin.com/in/berke-utku-b0b607335/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+</a>
+<a href="mailto:bberkeutku@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" />
+</a>
+<a href="https://github.com/berkeutku?tab=repositories">
+  <img src="https://img.shields.io/badge/GitHub-Explore%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub projects" />
+</a>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0b0d12&height=55&section=footer&text=BUILD%20%E2%80%A2%20LEARN%20%E2%80%A2%20REPEAT&fontSize=13&fontColor=7dd3fc" alt="Build, learn, repeat." />
+<br /><br />
+
+### `Always curious. Always building. Always improving.`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:172554,100:09090F&height=100&section=footer" width="100%" alt="Decorative footer banner" />
 
 </div>
